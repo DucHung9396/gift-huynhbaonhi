@@ -305,7 +305,7 @@ h4 {
 .mp3 {
   text-align: end;
   position: relative;
-  bottom: 0;
+  bottom: 10px;
 }
 .mp3 audio::-webkit-media-controls-panel {
   background-color: rgb(238, 107, 107);
