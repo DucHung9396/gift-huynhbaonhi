@@ -1,6 +1,8 @@
 html,
 body {
   margin: 0;
+  padding: 0;
+  overflow: auto;
 }
 
 .above-fold {
@@ -295,11 +297,13 @@ h4 {
     top: 30px;
     right: -40px;
   }
+
   h4 {
     font-size: 14px;
   }
   body {
     width: 100%;
+    background-size: cover;
   }
 }
 .mp3 {
